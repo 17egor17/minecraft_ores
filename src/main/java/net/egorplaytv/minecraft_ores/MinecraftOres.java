@@ -20,6 +20,7 @@ public class MinecraftOres{
 
     public MinecraftOres(){
         FMLJavaModLoadingContext.get().getModEventBus().addListener(this::setup);
+
         MinecraftForge.EVENT_BUS.register(this);
     }
 
