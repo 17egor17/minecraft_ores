@@ -1,0 +1,7 @@
+{
+  "replace": false ,
+  "values": [
+    "create_food:apple_vinegar_flowing",
+    "create_food:apple_vinegar_fluid"
+  ]
+}

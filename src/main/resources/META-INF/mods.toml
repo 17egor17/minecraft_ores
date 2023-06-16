@@ -56,3 +56,9 @@ This mod adds ores from minecraft but in stone types
     versionRange="[1.18.2,1.19)"
     ordering="NONE"
     side="BOTH"
+[[dependencies.minecraft_ores]]
+    modId="create"
+    mandatory=true
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"

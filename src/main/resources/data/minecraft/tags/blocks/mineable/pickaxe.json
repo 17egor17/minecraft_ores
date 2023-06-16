@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "andesite_coal_ore",
+    "calcite_coal_ore",
+    "diorite_coal_ore",
+    "dripstone_coal_ore",
+    "granite_coal_ore",
+    "tuff_coal_ore"
+  ]
+}

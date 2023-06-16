@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft_ores:block/block_overlay",
+  "textures": {
+    "stone_type": "minecraft:block/andesite",
+    "ore_type_overlay": "minecraft_ores:block/coal_ore"
+  }
+}
